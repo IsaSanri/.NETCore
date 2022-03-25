@@ -1,0 +1,16 @@
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\bin\Debug\net5.0\CajeroAutomatico.exe
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\bin\Debug\net5.0\CajeroAutomatico.deps.json
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\bin\Debug\net5.0\CajeroAutomatico.runtimeconfig.json
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\bin\Debug\net5.0\CajeroAutomatico.runtimeconfig.dev.json
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\bin\Debug\net5.0\CajeroAutomatico.dll
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\bin\Debug\net5.0\CajeroAutomatico.pdb
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\obj\Debug\net5.0\CajeroAutomatico.csproj.AssemblyReference.cache
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\obj\Debug\net5.0\CajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\obj\Debug\net5.0\CajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\obj\Debug\net5.0\CajeroAutomatico.AssemblyInfo.cs
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\obj\Debug\net5.0\CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\obj\Debug\net5.0\CajeroAutomatico.dll
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\obj\Debug\net5.0\refint\CajeroAutomatico.dll
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\obj\Debug\net5.0\CajeroAutomatico.pdb
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\obj\Debug\net5.0\CajeroAutomatico.genruntimeconfig.cache
+C:\Users\ISABELLE SANCHEZ\Documents\Backend\CajeroAutomatico\obj\Debug\net5.0\ref\CajeroAutomatico.dll
